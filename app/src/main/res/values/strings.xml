@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">YogaAdminApp</string>
+
+    <string name="add_course_title">Create New Yoga Course</string>
+    <string name="course_type_label">Type of Class (Required)</string>
+    <string name="day_of_week_label">Day of the week (Required)</string>
+    <string name="time_hint">Time (e.g. 10:00) (Required)</string>
+    <string name="capacity_hint">Capacity (Required)</string>
+    <string name="price_hint">Price per class (e.g. £10) (Required)</string>
+    <string name="duration_hint">Duration (in minutes) (Required)</string>
+    <string name="description_hint">Description (Optional)</string>
+    <string name="save_course_button">Save Course</string>
+    <string name="add_new_course_button">Add New Yoga Course</string>
+
+    <string-array name="course_types">
+        <item>Flow Yoga</item>
+        <item>Aerial Yoga</item>
+        <item>Family Yoga</item>
+    </string-array>
+
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
